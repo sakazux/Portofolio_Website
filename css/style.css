@@ -95,45 +95,45 @@ html {
 
 /* End About me area */
 
-/* portofolio area */
-.site-main .portofolio-area .container-edu {
+/* portfolio area */
+.site-main .portfolio-area .container-edu {
   padding: 10rem 5rem;
 }
 
-.site-main .portofolio-area .container-edu li {
+.site-main .portfolio-area .container-edu li {
   font: bold 500 20px/2px var(--roboto);
   list-style: none;
 }
 
-.site-main .portofolio-area .container-edu .main-title {
+.site-main .portfolio-area .container-edu .main-title {
   font-size: 3rem;
   font-weight: 500;
   font-family: var(--robotoBold);
   padding-top: 1rem;
 }
 
-.site-main .portofolio-area .container-edu .edu-title {
+.site-main .portfolio-area .container-edu .edu-title {
   font-size: 2rem;
   font-family: var(--robotoBold);
   padding-top: 1rem;
 }
 
-.site-main .portofolio-area .container-edu .edu-desc {
+.site-main .portfolio-area .container-edu .edu-desc {
   font-size: 18px;
   font-family: var(--robotoBold);
 }
 
-.site-main .portofolio-area .container-edu .skillName {
+.site-main .portfolio-area .container-edu .skillName {
   font-size: 1.5rem;
   padding-top: 4px;
   font-family: var(--robotoBold);
 }
 
-.site-main .portofolio-area .container-edu .skill li {
+.site-main .portfolio-area .container-edu .skill li {
   list-style-type: disc;
 }
 
-.site-main .portofolio-area .container-edu .skill .main-title {
+.site-main .portfolio-area .container-edu .skill .main-title {
   list-style-type: none;
   padding-bottom: 1rem;
 }
@@ -142,7 +142,7 @@ html {
   background: url(../img/banner/banner_skill1.png) no-repeat 0% 50%;
 }
 
-/* End portofolio area */
+/* End portfolio area */
 /*Project area */
 .site-main .project-area {
   padding: 8rem 5rem;
