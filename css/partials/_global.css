@@ -1,4 +1,8 @@
 /* Global classes */
+html {
+    scroll-behavior: smooth;
+}
+
 .title-text {
     font: normal bold 50px/72px var(--roboto);
 }
@@ -6,6 +10,8 @@
 .text-uppercase {
     text-transform: uppercase;
 }
+
+
 
 /* Buttons */
 .button {
